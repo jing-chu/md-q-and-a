@@ -14,7 +14,7 @@ H1 - H6
 <b><i>
 ```diff
 
-+ **_Paris_**
++ Paris
 
 ```
 </i></b>
