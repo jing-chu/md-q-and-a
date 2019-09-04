@@ -11,3 +11,10 @@
 H1 - H6
 
 3. What is the capital of France? (Italic, bold and green)
+```diff
+
++ **_Paris_**
+
+```
+
+Where do you live? put it in a table
